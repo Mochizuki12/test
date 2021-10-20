@@ -1,0 +1,4 @@
+論文など、消えると困るものはGITで保管する。
+addしてstatus見てcommit。(git add,git status,git commit)(リポジトリ―へのファイル選択、ステージを確認、ステージに置いたファイルを登録)
+開発用のブランチからmainへマージする。
+
